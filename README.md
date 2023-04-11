@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋🏽⚡
 
+I am Darlyne, a French fullstack developper 💻 with a knack for 3D, data (#SpotifyWrapped 💚)
+
+🌱 I’m currently learning : 
+- **software engineering** at O'Clock, web development school
+- ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) & ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) for personal purposes
+
+📫 How to reach me: 👉🏽[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:darlyne.dev@gmail.com)👈🏽
 <!--
 **DarlyneP/DarlyneP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
