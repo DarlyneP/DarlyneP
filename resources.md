@@ -1,0 +1,2 @@
+- [Handling mages in markdown](https://www.javatpoint.com/images-in-markdown#:~:text=Images%20in%20Markdown%20can%20be,exclamatory%20symbol%20at%20the%20beginning.&text=We%20can%20insert%20the%20images,such%20as%20Internet%20and%20PC.)
+- [Adding themed badges in mardown](https://ileriayo.github.io/markdown-badges/)
